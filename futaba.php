@@ -1,4 +1,4 @@
-<?
+<?php
 /* ‰æ‘œŒfŽ¦”Â
 
 futaba.php v0.8 lot.051031
@@ -984,4 +984,4 @@ switch($mode){
       echo "<META HTTP-EQUIV=\"refresh\" content=\"0;URL=".PHP_SELF2."\">";
     }
 }
-?>
+
